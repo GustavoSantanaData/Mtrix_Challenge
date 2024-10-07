@@ -1,0 +1,2 @@
+### `src/saved_tables`
+Esta pasta, inicialmente vazia, é copiada para dentro do ambiente Docker e serve para armazenar as tabelas nos formatos Parquet e CSV, conforme proposto nos Desafios 1 e 2. Isso facilita tanto a visualização quanto a importação das tabelas para fora do ambiente Docker, se necessário.
