@@ -12,9 +12,9 @@ services:
     volumes:
       - spark_data:/opt/spark
     ports:
-      - "7077:7077"  # Porta do master
-      - "8080:8080"  # UI do Spark
-      - "8081:8081"  # UI do Worker
+      - "7077:7077"  #porta do master
+      - "8080:8080"  #UI do Spark
+      - "8081:8081"  #UI do Worker
 
 volumes:
   spark_data:
