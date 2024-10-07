@@ -14,7 +14,7 @@ Esta pasta, inicialmente vazia, é copiada para dentro do ambiente Docker e serv
 Esta pasta contém os scripts de ETL que resolvem os desafios propostos.
 
 ### 4. `src/csv_files`
-Esta pasta armazena as tabelas de vendas dos distribuidores. Elas são copiadas para o ambiente Docker e recriadas no banco de dados PostgreSQL durante a configuração do ambiente.
+Esta pasta armazena as tabelas de vendas e distribuidores. Elas são copiadas para o ambiente Docker e recriadas no banco de dados PostgreSQL durante a configuração do ambiente.
 
 ### 5. `.env`
 Este arquivo armazena as credenciais e o nome do banco de dados PostgreSQL.
